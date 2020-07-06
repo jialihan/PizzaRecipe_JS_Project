@@ -1,0 +1,25 @@
+{
+  "name": "pizzarecipe_js_project",
+  "version": "1.0.0",
+  "description": "js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jialihan/PizzaRecipe_JS_Project.git"
+  },
+  "author": "jelly han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jialihan/PizzaRecipe_JS_Project/issues"
+  },
+  "homepage": "https://github.com/jialihan/PizzaRecipe_JS_Project#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
